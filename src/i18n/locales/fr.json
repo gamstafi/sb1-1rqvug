@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "general": {
+      "title": "Paramètres généraux",
+      "language": "Langue",
+      "theme": "Thème",
+      "currency": "Devise",
+      "timezone": "Fuseau horaire",
+      "dateFormat": "Format de date",
+      "numberFormat": "Format des nombres"
+    }
+  }
+}

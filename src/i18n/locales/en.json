@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "general": {
+      "title": "General Settings",
+      "language": "Language",
+      "theme": "Theme",
+      "currency": "Currency",
+      "timezone": "Timezone",
+      "dateFormat": "Date Format",
+      "numberFormat": "Number Format"
+    }
+  }
+}

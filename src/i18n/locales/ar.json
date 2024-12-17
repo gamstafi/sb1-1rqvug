@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "general": {
+      "title": "الإعدادات العامة",
+      "language": "اللغة",
+      "theme": "المظهر",
+      "currency": "العملة",
+      "timezone": "المنطقة الزمنية",
+      "dateFormat": "تنسيق التاريخ",
+      "numberFormat": "تنسيق الأرقام"
+    }
+  }
+}
